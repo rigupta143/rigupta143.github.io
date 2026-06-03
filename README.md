@@ -2,7 +2,6 @@
 # Ritesh GUPTA
 This is my website. Under development
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>My Website</title>
